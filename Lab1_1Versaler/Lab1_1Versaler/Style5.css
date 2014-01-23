@@ -1,0 +1,26 @@
+﻿#VersalerTextBox {
+    float:left;
+    height:197px;
+    Width:479px;
+    clear:right;
+    clear:left;
+}
+#CountButton {
+    margin-top:20px;
+    float:left;
+    clear:left;
+}
+#ClearButton {
+    margin-top:20px;
+    float:left;
+    clear:left;
+}
+#VersalerLabel {
+    margin-top:20px;
+    float:left;
+    clear:left;
+}
+#return {
+    background-color:yellow;
+
+}
